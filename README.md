@@ -58,48 +58,6 @@ Cursando MBA em Compliance/Riscos e certificação de Lead Auditor. Aberto a opo
 
 Fundador do Profissão Hacker – programa completo de mentoria e formação em segurança ofensiva.
 
-<!--🔐 **Foco em:** Penetration Testing | Security Analysis | Threat Intelligence | Security Research-->
-
-
-
-
-
-<!--<p align="center">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
-
-<!--<p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=paulogualterd&theme=dark">
-</p>-->
-
 ---
 
 ## 🛠️ Skills & Tecnologias
@@ -125,51 +83,14 @@ Fundador do Profissão Hacker – programa completo de mentoria e formação em 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🔍 Áreas de Especialização
-- **Penetration Testing** - Testes de invasão e avaliação de vulnerabilidades
+- **Penetration Testing** - Testes de Intrusão e avaliação de vulnerabilidades
 - **Web Application Security** - Análise de segurança em aplicações web
+- **Mobile (iOS / Android)** - Análise de segurança em aplicações Mobile
 - **Network Security** - Segurança de redes e infraestrutura
-- **Malware Analysis** - Análise de malware e reverse engineering
-- **Incident Response** - Resposta a incidentes de segurança
-- **Threat Intelligence** - Inteligência de ameaças e análise de IOCs
+- **Segurança de Ambientes Críticos** - RACF / Mainframe
+
 
 ---
-
-
-<!--
-**paulogualter/paulogualter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<table align="center">
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<hr>-->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -189,89 +110,6 @@ Here are some ideas to get you started:
     </picture>
   </a>
 </div>
-
-
-<!--## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/douglaslockshield/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-  </a>
-  <a href="https://www.youtube.com/@douglaslockshield" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30" width="30" style="filter: invert(16%) sepia(96%) saturate(7482%) hue-rotate(358deg) brightness(91%) contrast(119%);" />
-  </a>
-  <a href="https://www.instagram.com/douglaslockshield/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30" />
-  </a>
-</p>-->
-
-
-
-
-
-
-
-
-
-<!--## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulogualter&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogualter&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=paulogualter&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-</div>
-
----
-
-## 🚀 Projetos Destacados
-
-### 🔐 [Nome do Projeto 1]
-**Descrição:** Breve descrição do projeto relacionado a segurança
-- 🔗 [Repositório](https://github.com/paulogualter/projeto1)
-- 🛠️ Tecnologias: Python, Flask, SQLite
-- ⭐ Destaques: Análise de vulnerabilidades, relatórios automatizados
-
-### 🛡️ [Nome do Projeto 2]
-**Descrição:** Breve descrição do projeto relacionado a segurança
-- 🔗 [Repositório](https://github.com/paulogualter/projeto2)
-- 🛠️ Tecnologias: Bash, Nmap, Metasploit
-- ⭐ Destaques: Automação de testes de penetração
-
-### 🔍 [Nome do Projeto 3]
-**Descrição:** Breve descrição do projeto relacionado a segurança
-- 🔗 [Repositório](https://github.com/paulogualter/projeto3)
-- 🛠️ Tecnologias: JavaScript, Node.js, MongoDB
-- ⭐ Destaques: Dashboard de monitoramento de segurança
-
----
-
-## 📚 Certificações & Educação
-
-- 🎓 **Certificação 1** - [Nome da Certificação]
-- 🎓 **Certificação 2** - [Nome da Certificação]
-- 🎓 **Formação Acadêmica** - [Curso/Instituição]
-
----
-
-## 🏆 Conquistas
-
-- 🥇 **CTF Competitions** - Participação em competições de Capture The Flag
-- 🏅 **Bug Bounty** - Descoberta de vulnerabilidades em programas de bug bounty
-- 📝 **Artigos Publicados** - Contribuições para blogs e fóruns de segurança
-- 🤝 **Open Source** - Contribuições para projetos open source de segurança
-
----
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!-- Aqui você pode adicionar atividade recente usando GitHub Actions -->
-<!--END_SECTION:activity-->
-
 
 ---
 
