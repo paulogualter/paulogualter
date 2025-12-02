@@ -45,8 +45,18 @@ class CybersecurityProfessional:
             self.learn_new_technologies()
 ```
 
-Sou apaixonado por proteger sistemas e dados contra ameaças digitais, assumindo meu papel de Ethical Hacker.
-Minha jornada envolve explorar vulnerabilidades, desenvolver soluções de segurança e compartilhar conhecimento com a comunidade.
+Profissional de Cibersegurança com mais de 20 anos de experiência em segurança ofensiva e defensiva. Especialista em pentest, ethical hacking, DevSecOps, RACF (Segurança em MainFrames), GRC e liderança em segurança. Atuação nos setores financeiro, tecnologia, saúde, varejo e infraestrutura crítica (portos/aeroportos).
+
+Habilidades: Pentest Web/Mobile/Cloud (AWS/Azure/GCP), OSINT, Forense, Engenharia Social, OWASP, MITRE ATT&CK, NIST, ISO 27001, CIS Controls.
+
+Liderança & Ensino: Instrutor do Profissão Hacker, professor de pós-graduação e fundador do FortalSec. Forte capacidade de comunicação entre times técnicos, dev, risco, compliance e executivos.
+
+DevSecOps: Segurança em CI/CD, SonarQube, ZAP, Snyk, Trivy, GitHub Actions.
+GRC: Políticas, vulnerabilidades, resposta a incidentes, LGPD, auditorias.
+
+Cursando MBA em Compliance/Riscos e certificação de Lead Auditor. Aberto a oportunidades na França ou Alemanha (remoto ou presencial). Português nativo, inglês em evolução e iniciando francês.
+
+Fundador do Profissão Hacker – programa completo de mentoria e formação em segurança ofensiva.
 
 <!--🔐 **Foco em:** Penetration Testing | Security Analysis | Threat Intelligence | Security Research-->
 
