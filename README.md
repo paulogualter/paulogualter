@@ -1,14 +1,60 @@
+<div align="center">
+
 # Hi, everyone! 👋, I'm [Paulo Gualter](https://www.linkedin.com/in/paulogualter)
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-<!--![GitHub](./assets/github_cover.png)-->
 
-<hr>
 
+### Cybersecurity | Ethical Hacker | Security Researcher
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogualter)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulogualter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+---
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hack+the+Real+World!;Seguran%C3%A7a+Sem+Frescura.;Projetos+reais+para+problemas+reais."/>
 </p>
+</div>
 
-<p align="center">
+## 👨‍💻 Sobre Mim
+
+```python
+class CybersecurityProfessional:
+    def __init__(self):
+        self.name = "Paulo Gualter"
+        self.role = "Cybersecurity | Ethical Hacker | Security Researcher"
+        self.location = "Brasil"
+        self.current_learning = ["Penetration Testing", "Malware Analysis", "Threat Intelligence"]
+        self.hobbies = ["CTF Challenges", "Security Research", "Open Source Contributions"]
+    
+    def work(self):
+        while True:
+            self.protect_systems()
+            self.research_threats()
+            self.share_knowledge()
+            self.learn_new_technologies()
+```
+
+Sou apaixonado por proteger sistemas e dados contra ameaças digitais, assumindo meu papel de Ethical Hacker.
+Minha jornada envolve explorar vulnerabilidades, desenvolver soluções de segurança e compartilhar conhecimento com a comunidade.
+
+<!--🔐 **Foco em:** Penetration Testing | Security Analysis | Threat Intelligence | Security Research-->
+
+
+
+
+
+<!--<p align="center">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -44,7 +90,39 @@
    <img src="http://github-readme-streak-stats.herokuapp.com?user=paulogualterd&theme=dark">
 </p>-->
 
-<hr>
+---
+
+## 🛠️ Skills & Tecnologias
+
+### 🔴 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🛡️ Ferramentas de Segurança
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF6600?style=for-the-badge)
+
+### ☁️ Cloud & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🔍 Áreas de Especialização
+- **Penetration Testing** - Testes de invasão e avaliação de vulnerabilidades
+- **Web Application Security** - Análise de segurança em aplicações web
+- **Network Security** - Segurança de redes e infraestrutura
+- **Malware Analysis** - Análise de malware e reverse engineering
+- **Incident Response** - Resposta a incidentes de segurança
+- **Threat Intelligence** - Inteligência de ameaças e análise de IOCs
+
+---
 
 
 <!--
@@ -60,7 +138,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <table align="center">
   <tr>
     <td>
@@ -81,19 +159,19 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<hr>
+<hr>-->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/RanitManik">
+ <a href="https://github.com/paulogualter">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
       <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/paulogualter">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik" />
@@ -102,33 +180,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<hr>
 
-<div align="center">
-  <a href="https://wakatime.com/@ranitmanik"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=RanitManik&color=blue" alt=""/></a>
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake.svg" />
-      <img width="804px" alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" />
-    </picture>
-  </a>
-</div>
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-## 🌐 Conecte-se comigo
+<!--## 🌐 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/douglaslockshield/" target="_blank">
@@ -140,4 +193,81 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/douglaslockshield/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30" />
   </a>
-</p>
+</p>-->
+
+
+
+
+
+
+
+
+
+<!--## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulogualter&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogualter&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=paulogualter&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
+---
+
+## 🚀 Projetos Destacados
+
+### 🔐 [Nome do Projeto 1]
+**Descrição:** Breve descrição do projeto relacionado a segurança
+- 🔗 [Repositório](https://github.com/paulogualter/projeto1)
+- 🛠️ Tecnologias: Python, Flask, SQLite
+- ⭐ Destaques: Análise de vulnerabilidades, relatórios automatizados
+
+### 🛡️ [Nome do Projeto 2]
+**Descrição:** Breve descrição do projeto relacionado a segurança
+- 🔗 [Repositório](https://github.com/paulogualter/projeto2)
+- 🛠️ Tecnologias: Bash, Nmap, Metasploit
+- ⭐ Destaques: Automação de testes de penetração
+
+### 🔍 [Nome do Projeto 3]
+**Descrição:** Breve descrição do projeto relacionado a segurança
+- 🔗 [Repositório](https://github.com/paulogualter/projeto3)
+- 🛠️ Tecnologias: JavaScript, Node.js, MongoDB
+- ⭐ Destaques: Dashboard de monitoramento de segurança
+
+---
+
+## 📚 Certificações & Educação
+
+- 🎓 **Certificação 1** - [Nome da Certificação]
+- 🎓 **Certificação 2** - [Nome da Certificação]
+- 🎓 **Formação Acadêmica** - [Curso/Instituição]
+
+---
+
+## 🏆 Conquistas
+
+- 🥇 **CTF Competitions** - Participação em competições de Capture The Flag
+- 🏅 **Bug Bounty** - Descoberta de vulnerabilidades em programas de bug bounty
+- 📝 **Artigos Publicados** - Contribuições para blogs e fóruns de segurança
+- 🤝 **Open Source** - Contribuições para projetos open source de segurança
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!-- Aqui você pode adicionar atividade recente usando GitHub Actions -->
+<!--END_SECTION:activity-->
+
+
+---
+
+<div align="center">
+
+### ⚡ "A segurança não é um produto, mas um processo" ⚡
+
+</div>
+
